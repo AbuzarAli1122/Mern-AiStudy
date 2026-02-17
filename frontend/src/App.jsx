@@ -14,7 +14,7 @@ import DocumentListPage from "./pages/Documents/DocumentListPage";
 
 import DocumentDetailPage from "./pages/Documents/DocumentDetailPage";
 import FlashCardListPage from "./pages/FlashCards/FlashCardListPage";
-import FlashCardPage from "./pages/Flashcards/FlashCardPage";
+import FlashCardPage from "./pages/FlashCards/FlashCardPage";
 import QuizTakenPage from "./pages/Quizzers/QuizTakenPage";
 import QuizResultPage from "./pages/Quizzers/QuizResultPage";
 import ProfilePage from "./pages/Profile/ProfilePage";
