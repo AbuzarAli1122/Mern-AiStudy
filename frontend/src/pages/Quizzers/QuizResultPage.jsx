@@ -12,7 +12,6 @@ import {
   Target as TargetIcon,
   BookOpen as BookOpenIcon,
 } from "lucide-react";
-import { result } from "lodash";
 
 const QuizResultPage = () => {
   const { quizId } = useParams();
