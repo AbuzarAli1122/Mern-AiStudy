@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 import toast from "react-hot-toast";
 
-import flashcardService from "../../services/flashcardService";
+import flashcardService from "../../services/flashCardService";
 import aiService from "../../services/aiService";
 import PageHeader from "../../components/common/PageHeader";
 import Spinner from "../../components/common/Spinner";
